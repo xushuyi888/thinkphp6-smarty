@@ -9,7 +9,7 @@
       "email": "veryecs@126.com"
     }
   ],
-  "mininum-stability":"dev",
+  "minimum-stability":"dev",
   "require": {
     "php": ">=7.0",
     "smarty/smarty": "^3.1"
