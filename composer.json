@@ -1,7 +1,8 @@
 {
-  "name": "veryecs/think-smarty",
-  "description": "ThinkPHP 6.0 Smarty Template Driver",
   "type": "library",
+  "name": "veryecs/think-smarty",
+  "homepage": "https://www.veryecs.com",
+  "description": "ThinkPHP 6.0 Smarty Template Driver",
   "license": "Apache-2.0",
   "authors": [
     {
@@ -9,9 +10,10 @@
       "email": "veryecs@126.com"
     }
   ],
-  "minimum-stability":"dev",
   "require": {
     "php": ">=7.0",
+	"topthink/framework": "6.0.*-dev",
+	"topthink/think-view": "^1.0",
     "smarty/smarty": "^3.1"
   },
   "autoload": {
