@@ -1,0 +1,22 @@
+{
+  "name": "veryecs/think-smarty",
+  "description": "ThinkPHP 6.0 Smarty Template Driver",
+  "type":"project",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "veryecs",
+      "email": "veryecs@126.com"
+    }
+  ],
+  "mininum-stability":"dev",
+  "require": {
+    "php": ">=7.0",
+    "smarty/smarty": "^3.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "think\\view\\driver\\": "src"
+    }
+  }
+}
