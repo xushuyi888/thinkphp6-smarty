@@ -1,7 +1,7 @@
 {
   "name": "veryecs/think-smarty",
   "description": "ThinkPHP 6.0 Smarty Template Driver",
-  "type":"project",
+  "type": "library",
   "license": "Apache-2.0",
   "authors": [
     {
